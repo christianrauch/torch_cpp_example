@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>torch_cpp_example</name>
+  <version>0.0.1</version>
+  <description>TODO</description>
+
+  <maintainer email="Rauch.Christian@gmx.de">Christian Rauch</maintainer>
+
+  <license>MIT</license>
+
+  <buildtool_depend>cmake</buildtool_depend>
+
+  <depend>torch_cpp</depend>
+
+  <export>
+    <build_type>cmake</build_type>
+  </export>
+</package>
